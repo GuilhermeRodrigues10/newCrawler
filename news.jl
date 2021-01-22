@@ -1,12 +1,12 @@
-{"title": "LG deve vender seu neg\u00f3cio de celulares para grupo vietnamita", "link": "https://www.tecmundo.com.br/mercado/209725-lg-deve-vender-negocio-celulares-grupo-vietnamita.htm"}
-{"title": "'Carro por assinatura' da Renault \u00e9 o mais barato do Brasil", "link": "https://www.tecmundo.com.br/mobilidade-urbana-smart-cities/209724-carro-assinatura-renault-barato-brasil.htm"}
-{"title": "Riverdale 5\u00aa temporada: epis\u00f3dio de formatura ganha novas fotos e sinopse", "link": "https://www.tecmundo.com.br/minha-serie/209682-riverdale-5-temporada-episodio-formatura-novas-fotos-sinopse.htm"}
-{"title": "Mesas digitalizadoras da Huion com o melhor pre\u00e7o no AliExpress", "link": "https://www.tecmundo.com.br/aliexpress-experience/207232-mesas-digitalizadoras-huion-melhor-preco-aliexpress.htm"}
-{"title": "Vazamento gigante exp\u00f5e dados de quase todos os brasileiros", "link": "https://www.tecmundo.com.br/seguranca/209719-vazamento-gigante-expoe-dados-brasileiros.htm"}
-{"title": "Google vai impedir que outros navegadores usem APIs do Chrome", "link": "https://www.tecmundo.com.br/software/209696-google-impedir-outros-navegadores-usem-apis-chrome.htm"}
-{"title": "This Is Us: 5\u00aa temporada tem epis\u00f3dios adiados devido \u00e0 pandemia", "link": "https://www.tecmundo.com.br/minha-serie/209679-this-is-us-5-temporada-episodios-adiados-pandemia.htm"}
-{"title": "Trump perdoa ex-funcion\u00e1rio da Google condenado por espionagem", "link": "https://www.tecmundo.com.br/seguranca/209720-trump-perdoa-ex-funcionario-google-condenado-espionagem.htm"}
-{"title": "Ita\u00fa transfere R$ 1 mi indevidamente por falha com PIX e abre processo", "link": "https://www.tecmundo.com.br/mercado/209669-itau-transfere-r-1-mi-indevidamente-falha-pix-abre-processo.htm"}
-{"title": "Os remakes/remasters mais esperados de 2021", "link": "https://www.tecmundo.com.br/voxel/209683-remakes-remasters-esperados-2021.htm"}
-{"title": "Nova atualiza\u00e7\u00e3o do Chrome traz gerenciador de senhas integrado", "link": "https://www.tecmundo.com.br/software/209676-nova-atualizacao-chrome-traz-gerenciador-senhas-integrado.htm"}
-{"title": "Aux\u00edlio Emergencial pode ter novas parcelas pagas em 2021", "link": "https://www.tecmundo.com.br/mercado/209625-auxilio-emergencial-ter-novas-parcelas-pagas-2021.htm"}
+{"title": "Xbox Live Gold tem grande aumento de pre\u00e7o nos EUA", "link": "https://www.tecmundo.com.br/voxel/209816-xbox-live-gold-tem-grande-aumento-preco-eua.htm"}
+{"title": "FPF lan\u00e7a Paulist\u00e3o Play, streaming para transmitir jogos ao vivo", "link": "https://www.tecmundo.com.br/internet/209821-fpf-lanca-paulistao-play-streaming-transmitir-jogos-vivo.htm"}
+{"title": "Lista: saiba se o seu celular vai receber o Android 11", "link": "https://www.tecmundo.com.br/software/209769-lista-saiba-celular-receber-o-android-11.htm"}
+{"title": "Notebook lento causa queda na produtividade", "link": "https://www.tecmundo.com.br/produto/209705-notebook-lento-causa-queda-produtividade-veja-numeros.htm"}
+{"title": "Uber lan\u00e7a plano de celular pr\u00e9-pago para motoristas e parceiros", "link": "https://www.tecmundo.com.br/mercado/209770-uber-plano-celular-pre-pago-motoristas-parceiros.htm"}
+{"title": "Xbox Games With Gold de fevereiro tem Resident Evil, Gears 5 e mais", "link": "https://www.tecmundo.com.br/voxel/209811-xbox-games-with-gold-fevereiro-tem-resident-evil-gears-5.htm"}
+{"title": "Google amea\u00e7a tirar buscador da Austr\u00e1lia por causa de imposto", "link": "https://www.tecmundo.com.br/mercado/209804-google-ameaca-tirar-buscador-australia-causa-imposto.htm"}
+{"title": "Como recuperar dados e arquivos perdidos de qualquer dispositivo?", "link": "https://www.tecmundo.com.br/software/209542-recuperar-dados-arquivos-perdidos-qualquer-dispositivo.htm"}
+{"title": "Elon Musk atende pedido de usu\u00e1rio no Twitter ap\u00f3s 154 tentativas", "link": "https://www.tecmundo.com.br/redes-sociais/209748-elon-musk-atende-pedido-usuario-twitter-154-tentativas.htm"}
+{"title": "Superman e Lois: filhos descobrem o segredo de Clark em trailer incr\u00edvel", "link": "https://www.tecmundo.com.br/minha-serie/209795-superman-lois-filhos-descobrem-segredo-clark-trailer-incrivel.htm"}
+{"title": "Kia deve assumir o desenvolvimento do carro da Apple", "link": "https://www.tecmundo.com.br/mobilidade-urbana-smart-cities/209780-kia-deve-assumir-desenvolvimento-carro-apple.htm"}
+{"title": "Como proteger alunos de ataques virtuais?", "link": "https://www.tecmundo.com.br/produto/177444-ensino-distancia-proteger-alunos-ataques-virtuais.htm"}
