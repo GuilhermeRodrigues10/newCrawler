@@ -4,7 +4,7 @@ from newCrawler.items import NewcrawlerItem
 
 
 class GloboSpider(scrapy.Spider):
-    name = 'Globo'
+    name = 'Tecmundo'
     allowed_domains = ['tecmundo.com.br']
     start_urls = ['https://www.tecmundo.com.br/']
 

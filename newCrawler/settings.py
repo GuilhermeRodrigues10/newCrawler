@@ -12,12 +12,15 @@ BOT_NAME = 'newCrawler'
 SPIDER_MODULES = ['newCrawler.spiders']
 NEWSPIDER_MODULE = 'newCrawler.spiders'
 
+# The <Password> can be confirmed with the repository owner :) 
+MONGO_URI = 'mongodb+srv://dbTeste:<Password>@cluster0.ugxb0.mongodb.net/dbTeste?retryWrites=true&w=majority'
+MONGO_DATABASE = 'dbTeste'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'newCrawler (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
